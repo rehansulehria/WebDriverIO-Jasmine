@@ -6,7 +6,7 @@
   "license": "MIT",
   "main": "index.js",
   "scripts": {
-    "test": "jest",
+    "test": "wdio",
     "test:watch": "jest --watch",
     "coverage": "jest --coverage",
     "start": "webpack-dev-server",
@@ -39,6 +39,7 @@
     "babel-preset-env": "^1.6.0",
     "babel-preset-flow": "^6.23.0",
     "babel-preset-react": "^6.23.0",
+    "chai": "~4.1.2",
     "cross-env": "5.0.5",
     "css-loader": "^0.28.7",
     "enzyme": "^3.2.0",
@@ -74,6 +75,10 @@
     "thread-loader": "^1.1.1",
     "uglify-js": "3.0.28",
     "uglifyjs-webpack-plugin": "0.4.6",
+    "wdio-jasmine-framework": "^0.3.2",
+    "wdio-selenium-standalone-service": "~0.0.10",
+    "wdio-spec-reporter": "^0.1.2",
+    "webdriverio": "4.13.0",
     "webpack": "^3.5.6",
     "webpack-dev-server": "^2.7.1"
   },
@@ -92,6 +97,7 @@
     "react-router-dom": "^4.2.0",
     "redux": "3.7.2",
     "redux-thunk": "2.2.0",
+    "chai": "~4.1.2",
     "reselect": "^3.0.1"
   }
 }
