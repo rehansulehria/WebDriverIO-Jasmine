@@ -1,5 +1,6 @@
-import Page from "../pageobjects/page";
-import {SuiteNames} from "../suites/suitenames";
+
+import {SuiteNames} from "../../suites/suitenames";
+import Page from "../../pageobjects/page";
 
 describe(SuiteNames.e2eSuite, () => {
 

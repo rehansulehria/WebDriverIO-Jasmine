@@ -1,4 +1,4 @@
-import {BudgetPage} from "../../pageobjects/reports.page";
+import {BudgetPage} from "../../pageobjects/budget.page";
 import {SuiteNames} from "../../suites/suitenames";
 import Page from "../../pageobjects/page";
 
