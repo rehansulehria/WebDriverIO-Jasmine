@@ -4,10 +4,11 @@ import Page from "../../pageobjects/page";
 
 describe(SuiteNames.e2eSuite, () => {
 
-    it('Open Home Page of Budge App and Verify Report and Budge Link', () => {
+    it('Navigate To Report Page and Verify Added Budget and Perform Other Necessary Verifications', () => {
         Page.openBaserUrl('budget')
         ReportPage.navigateToReports
         browser.waitForVisible('a[href=\'/reports/inflow-outflow\']')
-        expect(browser.getText('a[href=\'/reports/inflow-outflow\']')).toContain('Inflow vs Outflow')
+        expect(Page.elementText('a[href=\'/reports/inflow-outflow\']')).toContain('Inflow vs Outflow')
+
     });
 });
