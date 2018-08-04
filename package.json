@@ -78,6 +78,8 @@
     "wdio-jasmine-framework": "^0.3.2",
     "wdio-selenium-standalone-service": "~0.0.10",
     "wdio-spec-reporter": "^0.1.2",
+    "wdio-allure-reporter": "^0.6.3",
+    "allure-commandline": "^2.7.0",
     "webdriverio": "4.13.0",
     "webpack": "^3.5.6",
     "webpack-dev-server": "^2.7.1"
