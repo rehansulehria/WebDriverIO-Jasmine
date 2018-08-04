@@ -18,6 +18,15 @@
   5. Page-Objects for better design for scalability and reuseability
   ![Screenshot](screenshot.png)![Screenshot](screenshot2.png)
   
+  ### How to SetUp and Run Tests:
+  
+  1. clone the url containing e2e tests for app using command `git clone https://github.com/rehansulehria/WebDriverIO-Jasmine.git`
+  2. on root folder of the project run `npm install`. It will install all project dependencies.
+  3. once all depencies are installed. Run `npm start` to run the local webserver for budeting app.
+  4. Now run `npm test` to run the Tests.
+  5. Command line spec reporter will display status of each run.
+  6. Once tests run is complete. Run `allure generate` to general html allure report as shown in screenshot above.
+  
 
 
 
