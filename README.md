@@ -15,8 +15,9 @@
   2. Jasmine (Test Runner which runs each spec as independently)
   3. Jest (Javascript testing library used for UI assertions)
   4. Allure-reporter ( Generates report via command line post test run) example report for budget app is shown below:
-  ![Screenshot](screenshot.png)
   5. Page-Objects for better design for scalability and reuseability
+  ![Screenshot](screenshot.png)(screenshot2.png) 
+  
 
 
 
