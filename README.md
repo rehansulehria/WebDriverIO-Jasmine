@@ -16,7 +16,7 @@
   3. Jest (Javascript testing library used for UI assertions)
   4. Allure-reporter ( Generates report via command line post test run) example report for budget app is shown below:
   5. Page-Objects for better design for scalability and reuseability
-  ![Screenshot](screenshot.png)(screenshot2.png) 
+  ![Screenshot](screenshot.png)![Screenshot](screenshot2.png)
   
 
 
