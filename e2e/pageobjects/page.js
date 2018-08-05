@@ -1,6 +1,6 @@
 export default class Page {
     constructor() {
-        this.title = '';
+        this.title = 'Budgeting App';
     }
 
     static openBaserUrl(path) {

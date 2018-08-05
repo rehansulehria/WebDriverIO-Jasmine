@@ -17,6 +17,8 @@
   4. Allure-reporter ( Generates report via command line post test run) example report for budget app is shown below:
   5. Page-Objects for better design for scalability and reuseability
   ![Screenshot](screenshot.png)![Screenshot](screenshot2.png)
+
+
   
 
 
