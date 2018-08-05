@@ -11,11 +11,11 @@
   
  ###  Test Automation Libraries Used to Test Budgeting App:
 
-  _ WebDriverIO (for writing functional UI tests)
-  _ Jasmine (Test Runner which runs each spec as independently)
-  _ Jest (Javascript testing library used for UI assertions)
-  _ Allure-reporter ( Generates report via command line post test run) example report for budget app is shown below:
-  _ Page-Objects for better design for scalability and reuseability
+  * WebDriverIO (for writing functional UI tests)
+  * Jasmine (Test Runner which runs each spec as independently)
+  * Jest (Javascript testing library used for UI assertions)
+  * Allure-reporter ( Generates report via command line post test run) example report for budget app is shown below:
+  * Page-Objects for better design for scalability and reuseability
   ![Screenshot](screenshot.png)![Screenshot](screenshot2.png)
 
 
