@@ -5,8 +5,9 @@
 ###   Three Features To be Covered in Test Plan
   
   ######  Add Budget Item
-  ######  On Home Page Report and Budget Links are Shown
-  ######  Add a New Budget Item and Verify its updated on Reports
+  ######  Verify Added Budget Item is updated on Reports
+  ######  On Home Page Report and Budget Links are Shown and Navigation works.
+  
   
  ###  Test Automation Libraries Used to Test Budgeting App:
 
