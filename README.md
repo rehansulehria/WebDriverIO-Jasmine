@@ -1,4 +1,4 @@
-###  Test Plan For Budget App:
+###  Test Plan For Budgeting App:
      This is a brief test plan for budgeting app which covers the features to be tested, the approach and testing libraries
      used to test the app.
    
